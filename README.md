@@ -39,7 +39,7 @@
 
 * 🧑‍🎓 Atualmente cursando Engenharia de Software na **PUC Minas**
 * 📊 Focado em **Dados, SQL e Business Intelligence**
-* 💻 Desenvolvendo projetos com **Vue.js e Java**
+* 💻 Desenvolvendo projetos com **Back & Front-End**
 * 🚀 Buscando minha primeira oportunidade na área de tecnologia
 * 🧩 Interesse em **APIs, bancos de dados e arquitetura de sistemas**
 
