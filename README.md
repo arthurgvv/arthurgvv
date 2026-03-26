@@ -88,10 +88,10 @@
 <table>
 <tr>
 <td align="center">
-
+<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurgvv&theme=aura&locale=pt-br"/>
 </td>
 <td align="center">
-<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv"/>
+<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact"/>
 </td>
 </tr>
 </table>
@@ -99,15 +99,16 @@
 
 <br>
 
-<a href="https://github.com/arthurgvv">
-  <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&locale=pt-br" />
-</a>
+<div align="center">
+  <a href="https://github.com/arthurgvv">
+    <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&locale=pt-br" />
+  </a>
 
-<br><br>
+  <br><br>
 
-<a href="https://github.com/arthurgvv">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" />
-</a>
+  <a href="https://github.com/arthurgvv">
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" />
+  </a>
 </div>
 
 ---
