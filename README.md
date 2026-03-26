@@ -23,7 +23,10 @@
     </tr>
   </table>
 </div>
+<br/>
+</div>
 
+</div>
 <div align="center">
   <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 24 anos, moro em Belo Horizonte e sou programador. Atualmente sou estudante de <code>Engenharia de Software</code> na PUC Minas (4º período).</i><br/>
   Profissional em evolução constante, com forte foco em <b>Dados, SQL e Backend</b>. Tenho facilidade com modelagem de dados e manipulação em bancos relacionais, além de experiência com desenvolvimento em Java e ecossistema web moderno.
