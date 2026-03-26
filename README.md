@@ -85,16 +85,13 @@
 ### 📊 Estatísticas de Atividade
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurgvv&theme=aura&locale=pt-br"/>
-</td>
-<td align="center">
-<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact"/>
-</td>
-</tr>
-</table>
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurgvv&theme=aura&locale=pt-br"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact"/>
 </div>
 
 <br>
