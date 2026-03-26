@@ -88,10 +88,10 @@
 <table>
 <tr>
 <td>
-<img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurgvv&theme=aura&locale=pt-br"/>
+<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurgvv&theme=aura&locale=pt-br"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact"/>
+<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact"/>
 </td>
 </tr>
 </table>
