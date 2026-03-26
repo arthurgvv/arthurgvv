@@ -4,7 +4,9 @@
   <br/><br/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;Focado+em+Dados+e+Backend" />
-</div>
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td align="center" colspan="6"><strong>Mídias e Contato</strong></td>
@@ -19,8 +21,6 @@
     </tr>
   </table>
 </div>
-
-<br/>
 
 <div align="center">
   <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 24 anos, moro em Belo Horizonte e sou programador. Atualmente sou estudante de <code>Engenharia de Software</code> na PUC Minas (4º período).</i><br/>
