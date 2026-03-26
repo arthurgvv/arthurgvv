@@ -95,7 +95,9 @@
     <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&locale=pt-br" />
   </a>
 
-  <img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact&cache_seconds=7200" />
+  <a href="https://wakatime.com/@arthurgvv">
+  <img src="https://wakatime.com/badge/user/SEU_ID.svg" />
+</a>
 
   <br><br>
 
