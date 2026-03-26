@@ -9,8 +9,6 @@
 <br/>
 
   <div align="center">
-  <h3>💾 Focado em Dados e Backend</h3>
-</div>
   <table border="0">
     <tr>
       <td align="center" colspan="6"><strong>Mídias e Contato</strong></td>
