@@ -1,5 +1,7 @@
 <div align="center">
-  
+  <img src="https://raw.githubusercontent.com/arthurgvv/SEU-REPO/main/assets/banner.png" width="100%" />
+</div>
+
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;Focado+em+Dados+e+Backend;" alt="Typing SVG" />
 </div>
