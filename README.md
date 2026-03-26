@@ -95,7 +95,7 @@
     <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&locale=pt-br" />
   </a>
 
-  <img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=arthurgvv&theme=dark&layout=compact" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact" />
 
   <br><br>
 
