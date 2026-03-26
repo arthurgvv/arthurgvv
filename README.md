@@ -23,9 +23,6 @@
     </tr>
   </table>
 
-<br/><br/>
-
-
 </div>
 <div align="center">
   <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 24 anos, moro em Belo Horizonte e sou programador. Atualmente sou estudante de <code>Engenharia de Software</code> na PUC Minas (4º período).</i><br/>
