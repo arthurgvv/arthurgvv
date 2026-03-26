@@ -9,6 +9,13 @@
 <br/>
 
   <div align="center">
+    <div align="center">
+  <img src="https://raw.githubusercontent.com/arthurgvv/arthurgvv/main/banner1.png" width="100%" />
+  
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;Focado+em+Dados+e+Backend" />
+</div>
   <table border="0">
     <tr>
       <td align="center" colspan="6"><strong>Mídias e Contato</strong></td>
