@@ -87,10 +87,10 @@
 <div align="center">
 <table>
 <tr>
-<td>
+<td align="center">
 <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurgvv&theme=aura&locale=pt-br"/>
 </td>
-<td>
+<td align="center">
 <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact"/>
 </td>
 </tr>
