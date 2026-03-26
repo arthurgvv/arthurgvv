@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arthurgvv/SEU-REPO/main/assets/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/arthurgvv/arthurgvv/main/assets/banner1.png" width="100%" />
 </div>
 
   <br/><br/>
