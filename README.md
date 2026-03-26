@@ -85,23 +85,28 @@
 ### 📊 Estatísticas de Atividade
 
 <div align="center">
-  <a href="https://github.com/arthurgvv">
-    <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR" />
-  </a>
+<table>
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arthurgvv&theme=aura&locale=pt-br"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact"/>
+</td>
+</tr>
+</table>
 
-  <br><br>
+<br>
 
-  <a href="https://github.com/arthurgvv">
-    <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&locale=pt-br" />
-  </a>
+<a href="https://github.com/arthurgvv">
+  <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&locale=pt-br" />
+</a>
 
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact" />
+<br><br>
 
-  <br><br>
-
-  <a href="https://github.com/arthurgvv">
-    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" />
-  </a>
+<a href="https://github.com/arthurgvv">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" />
+</a>
 </div>
 
 ---
