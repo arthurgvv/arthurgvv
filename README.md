@@ -1,5 +1,5 @@
 <div align="center">
-
+  
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;Focado+em+Dados+e+Backend;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
@@ -14,10 +14,10 @@
     <tr>
       <td><a href="https://github.com/arthurgvv" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="45px"/></a></td>
       <td><a href="mailto:arthurgvkj@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="45px"/></a></td>
-      <td><a href="#" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
-      <td><a href="#" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://wa.me/5531983071212" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://www.instagram.com/arthurgvv" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
       <td><a href="https://www.linkedin.com/in/arthur-goncalves-62b15232a/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px"/></a></td>
-      <td><a href="#" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://portfolio-arthur-6ujqblv60-arthurgvvs-projects.vercel.app" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
     </tr>
   </table>
 </div>
@@ -51,7 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS" />
 </div>
 
 <br/>
@@ -84,17 +86,17 @@
 
 <div align="center">
   <a href="https://github.com/arthurgvv">
-    <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR" alt="GitHub Streak" />
+    <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR" />
   </a>
   <br><br>
 
   <a href="https://github.com/arthurgvv">
-    <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&hide_border=false&border_radius=4.5&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
+    <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&locale=pt-br" />
   </a>
   <br><br>
 
   <a href="https://github.com/arthurgvv">
-    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" alt="Detalhes do Perfil" />
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" />
   </a>
 </div>
 
@@ -102,6 +104,6 @@
 
 <div align="center">
   <br/>
-  <img align="center" alt="Footer" width="100%" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
-  <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0078D7&section=footer"/>
+  <img width="100%" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0078D7&section=footer"/>
 </div>
