@@ -84,6 +84,8 @@
 
 ### 📊 Estatísticas de Atividade
 
+### 📊 Estatísticas de Atividade
+
 <div align="center">
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurgvv&theme=aura&locale=pt-br"/>
 </div>
@@ -91,7 +93,7 @@
 <br>
 
 <div align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" />
+  <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR" />
 </div>
 
 <br>
