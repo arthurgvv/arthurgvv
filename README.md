@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Banner" src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png?raw=true" />
+
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;Focado+em+Dados+e+Backend;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
