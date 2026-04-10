@@ -97,10 +97,6 @@
 
   <br><br>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=arthurgvv&theme=aura&layout=compact"/>
-</div>
-
   <br><br>
 
   <a href="https://github.com/arthurgvv">
