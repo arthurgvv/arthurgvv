@@ -114,6 +114,12 @@ RAW → STAGING → TRANSFORM → MART
 
 ---
 
+# 🎯 Objetivo
+
+Atuar como **Analista de Dados**, evoluindo para **Analytics Engineer**.
+
+---
+
 # 📊 Estatísticas
 
 <div align="center">
@@ -123,12 +129,6 @@ RAW → STAGING → TRANSFORM → MART
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" width="80%" />
 </div>
-
----
-
-# 🎯 Objetivo
-
-Atuar como **Analista de Dados**, evoluindo para **Analytics Engineer**.
 
 ---
 
