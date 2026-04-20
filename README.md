@@ -1,32 +1,34 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/arthurgvv/arthurgvv/main/docs/meubanner.png" width="100%" />
-  
+
   <br/><br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;Focado+em+Dados+e+Backend" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Data+Modeling+%7C+DBT;Focado+em+Dados+e+Engenharia+de+Dados" />
 
   <br/><br/>
 
   <table border="0">
     <tr>
-      <td align="center" colspan="6"><strong>Mídias e Contato</strong></td>
+      <td align="center" colspan="6"><strong>Contato</strong></td>
     </tr> 
     <tr>
-      <td><a href="https://github.com/arthurgvv" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="45px"/></a></td>
-      <td><a href="mailto:arthurgvkj@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://wa.me/5531983071212" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://www.instagram.com/arthurgvv" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://www.linkedin.com/in/arthur-goncalves-62b15232a/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://portfolio-arthur-six.vercel.app" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/>
-  </a>
-</td>
+      <td><a href="https://github.com/arthurgvv"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="45px"/></a></td>
+      <td><a href="mailto:arthurgvkj@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://wa.me/5531983071212"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://www.instagram.com/arthurgvv"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://www.linkedin.com/in/arthur-goncalves-62b15232a/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://portfolio-arthur-six.vercel.app"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
     </tr>
   </table>
-
 </div>
+
+---
+
 <div align="center">
-  <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 24 anos, moro em Belo Horizonte e sou programador. Atualmente sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. (4º período).</i><br/>
-  Profissional em evolução constante, com forte foco em <b>Dados, SQL e Backend</b>. Tenho facilidade com modelagem de dados e manipulação em bancos relacionais, além de experiência com desenvolvimento em Java e ecossistema web moderno.
+  <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 24 anos e moro em Belo Horizonte.<br/>
+  Estudante de <code>Engenharia de Software</code> na PUC Minas (4º período).<br/><br/>
+  
+  Profissional focado em <b>Dados, SQL e Engenharia de Dados</b>.
 </div>
 
 <br/>
@@ -42,67 +44,91 @@
 
 ---
 
-## 💻 Minhas Habilidades
+# 🚀 Foco Principal
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computador">
 
-#### Linguagens:
+
+
+## 📊 Dados & Engenharia de Dados
+
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </div>
 
-<br/>
-
-#### Frameworks & Bibliotecas:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" title="Spring Boot" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" title="Vue.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
-</div>
-
-<br/>
-
-#### Banco de Dados & Ferramentas:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VSCode" />
-</div>
-
-<br clear="all" />
+- SQL avançado  
+- Modelagem de Dados (Star Schema ⭐)  
+- DBT (Data Build Tool)  
+- Construção de pipelines de dados  
 
 ---
 
-### 📊 Estatísticas de Atividade
+## ⚙️ Complementar
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</div>
+
+- Java (Spring Boot)  
+- Python  
+- Backend  
+- Docker  
+- Git  
+
+---
+
+# 📂 Projetos de Dados
+
+## 🔴 Sistema de Análise de Vendas (EM DESENVOLVIMENTO)
+
+🎯 Pipeline completo de dados simulando ambiente real
+
+### 🧩 Stack:
+- PostgreSQL  
+- SQL  
+- DBT  
+- Power BI  
+
+### 🏗️ Arquitetura:
+RAW → STAGING → TRANSFORM → MART  
+
+### 📊 Entregas:
+- Receita por período  
+- Ticket médio  
+- Top clientes  
+- Produtos mais vendidos  
+
+---
+
+# 🧩 O que eu faço com dados
+
+- Queries analíticas com SQL avançado  
+- Modelagem de dados  
+- Pipeline com DBT  
+- Preparação para dashboards  
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/arthurgvv">
-    <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/arthurgvv">
-    <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura&locale=pt-br" />
-  </a>
-
-  <br><br>
-
-  <br><br>
-
-  <a href="https://github.com/arthurgvv">
-    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" />
-  </a>
+  <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura" />
+  <br/><br/>
+  <img height="180" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" width="80%" />
 </div>
+
+---
+
+# 🎯 Objetivo
+
+Atuar como **Analista de Dados**, evoluindo para **Analytics Engineer**.
 
 ---
 
