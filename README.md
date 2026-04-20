@@ -84,7 +84,7 @@
 
 # 📂 Projetos de Dados
 
-## 🔴 Sistema de Análise de Vendas (EM DESENVOLVIMENTO)
+## 🟢 Sistema de Análise de Vendas (EM DESENVOLVIMENTO)
 
 🎯 Pipeline completo de dados simulando ambiente real
 
