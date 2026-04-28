@@ -116,7 +116,7 @@ RAW → STAGING → TRANSFORM → MART
 
 # 🎯 Objetivo
 
-Atuar como **Analista de Dados**, evoluindo para **Analytics Engineer**.
+Atuar como **Data Analyst**, evoluindo para **Analytics Engineer**.
 
 ---
 
