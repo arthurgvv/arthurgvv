@@ -82,29 +82,6 @@
 
 ---
 
-# 📂 Projetos de Dados
-
-## 🟢 Sistema de Análise de Vendas (EM DESENVOLVIMENTO)
-
-🎯 Pipeline completo de dados simulando ambiente real
-
-### 🧩 Stack:
-- PostgreSQL  
-- SQL  
-- DBT  
-- Power BI  
-
-### 🏗️ Arquitetura:
-RAW → STAGING → TRANSFORM → MART  
-
-### 📊 Entregas:
-- Receita por período  
-- Ticket médio  
-- Top clientes  
-- Produtos mais vendidos  
-
----
-
 # 🧩 O que eu faço com dados
 
 - Queries analíticas com SQL avançado  
