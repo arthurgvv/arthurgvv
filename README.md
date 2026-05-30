@@ -51,16 +51,14 @@
 
 
 
-## 📊 Dados 
+## 📊 Dados
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</div>
-
-- SQL avançado  
-- ETL
-- DATABRIKS
+- Modelagem de Dados
+- SQL para análise e manipulação de dados
+- Estruturação de bancos de dados relacionais
+- Transformação de dados em informações para tomada de decisão
+- Estudos em ETL, Governança de Dados e Analytics Engineering
+- Aprendizado contínuo em Azure, Databricks e Engenharia de Dados
 
 ---
 
