@@ -28,7 +28,7 @@
   <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 24 anos e moro em Belo Horizonte.<br/>
   Estudante de <code>Engenharia de Software</code> na PUC Minas (4º período).<br/><br/>
   
-  Profissional focado em <b>Dados, SQL e Engenharia de Dados</b>.
+  Profissional focado em <b>Dados</b>.
 </div>
 
 <br/>
@@ -51,7 +51,7 @@
 
 
 
-## 📊 Dados & Engenharia de Dados
+## 📊 Dados 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
@@ -59,9 +59,8 @@
 </div>
 
 - SQL avançado  
-- Modelagem de Dados (Star Schema ⭐)  
-- DBT (Data Build Tool)  
-- Construção de pipelines de dados  
+- ETL
+- DATABRIKS
 
 ---
 
@@ -84,10 +83,7 @@
 
 # 🧩 O que eu faço com dados
 
-- Queries analíticas com SQL avançado  
-- Modelagem de dados  
-- Pipeline com DBT  
-- Preparação para dashboards  
+
 
 ---
 
