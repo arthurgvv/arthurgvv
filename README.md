@@ -83,6 +83,58 @@
 
 # 🧩 O que eu faço com dados
 
+Transformo dados em informações que apoiam decisões estratégicas e ajudam a resolver problemas organizacionais.
+
+### 📈 Entendimento de Negócio
+
+* Identificação de problemas e oportunidades organizacionais
+* Análise de processos e fluxos de informação
+* Tradução de necessidades de negócio em soluções orientadas a dados
+* Apoio à tomada de decisão baseada em evidências
+
+### 🛠️ Coleta e Transformação de Dados
+
+* Extração, limpeza e tratamento de dados
+* Consultas SQL para análise e validação
+* Processos ETL e integração de múltiplas fontes
+* Estruturação de dados para análise e consumo
+
+### 🏗️ Modelagem e Arquitetura
+
+* Modelagem relacional de bancos de dados
+* Construção de estruturas analíticas
+* Conceitos de Data Warehouse e Lakehouse
+* Organização e documentação de ativos de dados
+
+### 🔒 Qualidade e Governança
+
+* Garantia da qualidade, consistência e confiabilidade dos dados
+* Aplicação de boas práticas de governança
+* Validação e monitoramento de informações
+* Padronização de processos e estruturas de dados
+
+### 📊 Análise e Geração de Valor
+
+* Transformação de dados em informações relevantes
+* Criação de indicadores e métricas
+* Identificação de padrões e tendências
+* Geração de insights acionáveis para o negócio
+
+### 🤖 Dados e Inteligência Artificial
+
+* Utilização de IA para potencializar análises e produtividade
+* Exploração de aplicações de IA em ambientes de dados
+* Aprendizado contínuo sobre tecnologias orientadas por dados
+* Interesse em soluções que unem dados, automação e inteligência artificial
+
+### 🚀 Em evolução
+
+* SQL Avançado
+* Databricks
+* Analytics Engineering
+* Engenharia de Dados
+* Modelagem Analítica
+* Governança de Dados
 
 
 ---
