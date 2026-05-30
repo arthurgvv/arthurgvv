@@ -3,7 +3,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Data+Modeling+%7C+DBT;Focado+em+Dados+e+Engenharia+de+Dados" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=800&lines=Data+Analyst;Data+Modeling+%7C+SQL;Data+Quality+%7C+Governance+%7C+ETL;Analytics+Engineering+and+Data+Engineering" />
 
   <br/><br/>
 
