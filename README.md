@@ -3,7 +3,7 @@
 
   <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=800&lines=Data+Analyst;Data+Modeling+%7C+SQL;Data+Quality+%7C+Governance+%7C+ETL;Analytics+Engineering+and+Data+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Data+%7C+SQL+%7C+Data+Modeling;ETL+%7C+ELT+%7C+Data+Pipelines;Databricks+%7C+Lakehouse+%7C+Data+Engineering" />
 
   <br/><br/>
 
@@ -25,8 +25,8 @@
 ---
 
 <div align="center">
-  <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 24 anos e moro em Belo Horizonte.<br/>
-  Estudante de <code>Engenharia de Software</code> na PUC Minas (4º período).<br/><br/>
+  <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 25 anos e moro em Belo Horizonte.<br/>
+  Estudante de <code>Engenharia de Software</code> na PUC Minas (5º período).<br/><br/>
   
   Profissional focado em <b>Dados</b>.
 </div>
@@ -53,12 +53,14 @@
 
 ## 📊 Dados
 
-- Modelagem de Dados
-- SQL para análise e manipulação de dados
-- Estruturação de bancos de dados relacionais
-- Transformação de dados em informações para tomada de decisão
-- Estudos em ETL, Governança de Dados e Analytics Engineering
-- Aprendizado contínuo em Azure, Databricks e Engenharia de Dados
+- SQL e bancos de dados relacionais
+- Modelagem e estruturação de dados
+- Processos de ETL e ELT
+- Construção e transformação de pipelines de dados
+- Arquitetura Lakehouse e organização em camadas Bronze, Silver e Gold
+- Databricks e fundamentos de processamento de dados
+- Estudos em Python e PySpark aplicados a dados
+- Aprendizado contínuo em Engenharia de Dados
 
 ---
 
@@ -80,19 +82,19 @@
 
 # 🧩 O que eu faço com dados
 
-- Identifico problemas e oportunidades de negócio
-- Estruturo e organizo dados para análise
-- Transformo dados brutos em informações úteis
-- Apoio tomadas de decisão baseadas em dados
-- Busco garantir qualidade, consistência e confiabilidade das informações
-- Aplico conceitos de governança de dados
-- Estudo soluções envolvendo Analytics Engineering, Engenharia de Dados e IA
-
+- Estruturo e organizo dados para facilitar seu processamento e consumo
+- Trabalho com SQL para consulta, transformação e manipulação de dados
+- Desenvolvo processos de ingestão e transformação de dados
+- Aplico conceitos de ETL e ELT
+- Organizo dados utilizando as camadas Bronze, Silver e Gold
+- Exploro o Databricks para construção e processamento de pipelines
+- Busco garantir qualidade e consistência durante as transformações
+- Estudo arquiteturas e tecnologias utilizadas em Engenharia de Dados
 ---
 
 # 🎯 Objetivo
 
-Atuar como **Data Analyst**, evoluindo para **Analytics Engineer**.
+Construir minha carreira na área de **Dados**, desenvolvendo experiência prática e conhecimento técnico para evoluir profissionalmente em **Engenharia de Dados**.
 
 ---
 
