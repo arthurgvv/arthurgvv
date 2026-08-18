@@ -68,7 +68,7 @@
 ### 📊 Dados
 
 - SQL
-- PostgreSQL
+- Python
 - Databricks
 - PySpark
 - Pandas
