@@ -67,26 +67,28 @@
 
 ### 📊 Dados
 
-- SQL
-- Python
-- Databricks
-- PySpark
-- Pandas
-- Delta Lake
+* SQL
+* Python
+* Databricks
+* PySpark
 
-### 💻 Desenvolvimento e Ferramentas
+### 💻 Desenvolvimento
 
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
-- React
-- Vue.js
-- Node.js
-- C
-- Docker
-- Git
+* Java
+* JavaScript
+* HTML
+* CSS
+* React
+* Vue.js
+* Node.js
+* C
+
+### ⚙️ Ferramentas
+
+* Docker
+* Git
+* GitHub
+
 ---
 
 # 🧩 O que eu faço com dados
