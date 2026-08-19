@@ -17,7 +17,7 @@
       <td><a href="https://wa.me/5531983071212"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
       <td><a href="https://www.instagram.com/arthurgvv"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
       <td><a href="https://www.linkedin.com/in/arthur-goncalves-62b15232a/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://portfolio-arthur-six.vercel.app"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://arthurgoncalves.vercel.app"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
     </tr>
   </table>
 </div>
