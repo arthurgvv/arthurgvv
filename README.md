@@ -70,7 +70,6 @@
 * SQL
 * Python
 * Databricks
-* PySpark
 
 ### 💻 Desenvolvimento
 
