@@ -3,7 +3,7 @@
 
   <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Data+%7C+SQL+%7C+Data+Modeling;ETL+%7C+ELT+%7C+Data+Pipelines;Databricks+%7C+Lakehouse+%7C+Data+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Data+%7C+SQL+%7C+Data+Modeling;ETL+%7C+Data+Transformation;Databricks+%7C+Medallion+Architecture+%7C+Data+Engineering" />
 
   <br/><br/>
 
@@ -55,11 +55,10 @@
 
 - SQL e bancos de dados relacionais
 - Modelagem e estruturação de dados
-- Processos de ETL e ELT
-- Construção e transformação de pipelines de dados
-- Arquitetura Lakehouse e organização em camadas Bronze, Silver e Gold
-- Databricks e fundamentos de processamento de dados
-- Estudos em Python e PySpark aplicados a dados
+- Processos de ETL
+- Ingestão e transformação de dados
+- Arquitetura Medallion e organização em camadas Bronze, Silver e Gold
+- Databricks para processamento e transformação de dados
 - Aprendizado contínuo em Engenharia de Dados
 
 ---
@@ -93,13 +92,13 @@
 # 🧩 O que eu faço com dados
 
 - Estruturo e organizo dados para facilitar seu processamento e consumo
-- Trabalho com SQL para consulta, transformação e manipulação de dados
+- Utilizo SQL para consulta, manipulação e transformação de dados
 - Desenvolvo processos de ingestão e transformação de dados
-- Aplico conceitos de ETL e ELT
-- Organizo dados utilizando as camadas Bronze, Silver e Gold
-- Exploro o Databricks para construção e processamento de pipelines
-- Busco garantir qualidade e consistência durante as transformações
-- Estudo arquiteturas e tecnologias utilizadas em Engenharia de Dados
+- Aplico conceitos e processos de ETL
+- Organizo dados seguindo a arquitetura Medallion, com as camadas Bronze, Silver e Gold
+- Utilizo Databricks para ingestão, processamento e transformação de dados
+- Aplico conceitos de modelagem de dados para estruturar dados e seus relacionamentos
+- Busco garantir qualidade e consistência dos dados durante as transformações
 ---
 
 # 🎯 Objetivo
