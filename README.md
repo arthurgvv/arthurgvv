@@ -1,127 +1,129 @@
+<!--START_SECTION:terminal-->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./output.gif">
+    <img alt="Arthur Goncalves - terminal SQL" src="./output.gif">
+</picture>
+
+<br>
+<!--END_SECTION:terminal-->
+
+
+Data Engineering • SQL • ETL • Data Modeling • Databricks • Medallion Architecture
+
+Sou o **Arthur**, tenho 25 anos, moro em Belo Horizonte e estou construindo minha carreira em **Engenharia de Dados**: gosto de pegar dado bruto, organizar em camadas e entregar algo confiável para quem vai consumir.
+
+* Estudante de **Engenharia de Software** na [PUC Minas](https://www.pucminas.br/) (5º período).
+* Trabalho principalmente com **SQL**, **Python** e **PySpark** no **Databricks**.
+* Organizo dados na **arquitetura Medallion** (Bronze → Silver → Gold), com processos de **ETL**, ingestão e transformação.
+* Interessado em **modelagem de dados**, **qualidade e consistência** dos dados e boas práticas de pipeline.
+* Também desenvolvo com **Java**, **JavaScript**, **React**, **Vue.js** e **Node.js**.
+* Portfólio: [arthurgoncalves.vercel.app](https://arthurgoncalves.vercel.app)
+* LinkedIn: [in/arthur-goncalves-62b15232a](https://www.linkedin.com/in/arthur-goncalves-62b15232a/)
+* Email: [arthurgvkj@gmail.com](mailto:arthurgvkj@gmail.com)
+
+### Tech Stack
+
+**Dados**
+
+[![PostgreSQL, Python](https://skillicons.dev/icons?i=postgres,py)](https://skillicons.dev)
+<img src="./assets/icons/databricks.svg" width="48" alt="Databricks" title="Databricks">
+<img src="./assets/icons/apachespark.svg" width="48" alt="PySpark" title="PySpark">
+
+**Desenvolvimento**
+
+[![Java, JavaScript, HTML, CSS, React, Vue, Node.js, C](https://skillicons.dev/icons?i=java,js,html,css,react,vue,nodejs,c)](https://skillicons.dev)
+
+**Ferramentas**
+
+[![Docker, Git, GitHub](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
+
+<h3><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/> GitHub Stats</h3>
+
+<!-- Primeira linha: stats + linguagens -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arthurgvv/arthurgvv/main/docs/meubanner.png" width="100%" />
-
-  <br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Data+%7C+SQL+%7C+Data+Modeling;ETL+%7C+Data+Transformation;Databricks+%7C+Medallion+Architecture+%7C+Data+Engineering" />
-
-  <br/><br/>
-
-  <table border="0">
-    <tr>
-      <td align="center" colspan="6"><strong>Contato</strong></td>
-    </tr> 
-    <tr>
-      <td><a href="https://github.com/arthurgvv"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="45px"/></a></td>
-      <td><a href="mailto:arthurgvkj@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://wa.me/5531983071212"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://www.instagram.com/arthurgvv"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://www.linkedin.com/in/arthur-goncalves-62b15232a/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://arthurgoncalves.vercel.app"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arthurgvv&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=radical&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgvv&theme=radical&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs Pie" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgvv&layout=pie&theme=radical&locale=pt-br"/>
+</td>
+</tr>
+</table>
 </div>
 
----
+<br>
 
+<!-- Segunda linha: WakaTime -->
 <div align="center">
-  <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 25 anos e moro em Belo Horizonte.<br/>
-  Estudante de <code>Engenharia de Software</code> na PUC Minas (5º período).<br/><br/>
-  
-  Profissional focado em <b>Dados</b>.
+<table>
+<tr>
+<td>
+<a href="https://wakatime.com/@arthurgvv"><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=arthurgvv&theme=radical&layout=compact&locale=pt-br&langs_count=8"/></a>
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<br>
 
+<!-- Terceira linha: cartoes do perfil -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurgvv&color=0078d7&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/repo-size/arthurgvv/arthurgvv?color=0078d7&label=REPO+SIZE&style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/arthurgvv/arthurgvv?color=0078d7&label=LICENSE&style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/m/arthurgvv/arthurgvv?color=0078d7&label=COMMIT+ACTIVITY&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/arthurgvv/arthurgvv?color=0078d7&label=LAST+COMMIT&style=for-the-badge" />
+<table>
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurgvv&theme=radical"/>
+</td>
+<td>
+<img alt="Repos por linguagem" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurgvv&theme=radical"/>
+</td>
+<td>
+<img alt="GitHub Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=radical"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arthurgvv&theme=radical&utcOffset=-3"/>
+</td>
+<td>
+<img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurgvv&theme=radical"/>
+</td>
+<td>
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=arthurgvv&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+</table>
 </div>
 
----
+<br>
 
-# 🚀 Foco Principal
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computador">
-
-
-
-## 📊 Dados
-
-- SQL e bancos de dados relacionais
-- Modelagem e estruturação de dados
-- Processos de ETL
-- Ingestão e transformação de dados
-- Arquitetura Medallion e organização em camadas Bronze, Silver e Gold
-- Databricks para processamento e transformação de dados
-- Aprendizado contínuo em Engenharia de Dados
-
----
-## 🛠️ Tecnologias
-
-### 📊 Dados
-
-* SQL
-* Python
-* PySpark
-* Databricks
-
-### 💻 Desenvolvimento
-
-* Java
-* JavaScript
-* HTML
-* CSS
-* React
-* Vue.js
-* Node.js
-* C
-
-### ⚙️ Ferramentas
-
-* Docker
-* Git
-* GitHub
-
----
-
-# 🧩 O que eu faço com dados
-
-- Estruturo e organizo dados para facilitar seu processamento e consumo
-- Utilizo SQL para consulta, manipulação e transformação de dados
-- Desenvolvo processos de ingestão e transformação de dados
-- Aplico conceitos e processos de ETL
-- Organizo dados seguindo a arquitetura Medallion, com as camadas Bronze, Silver e Gold
-- Utilizo Databricks para ingestão, processamento e transformação de dados
-- Aplico conceitos de modelagem de dados para estruturar dados e seus relacionamentos
-- Busco garantir qualidade e consistência dos dados durante as transformações
----
-
-# 🎯 Objetivo
-
-Construir minha carreira na área de **Dados**, desenvolvendo experiência prática e conhecimento técnico para evoluir profissionalmente em **Engenharia de Dados**.
-
----
-
-# 📊 Estatísticas
-
+<!-- Visitas e seguidores -->
 <div align="center">
-  <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura" />
-  <br/><br/>
-  <img height="180" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" width="80%" />
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=arthurgvv&color=ff6e96&label=VISITAS"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/arthurgvv?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/arthurgvv?style=social"/>
 </div>
 
----
+<br>
+
+<h3><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Meu Spotify</h3>
 
 <div align="center">
-  <br/>
-  <img width="100%" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0078D7&section=footer"/>
+<table>
+<tr>
+<td>
+<a href="https://open.spotify.com/user/31cqaw7v6tlijidy2fnhfvwavhm4"><img alt="Spotify - tocando agora" width="300px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cqaw7v6tlijidy2fnhfvwavhm4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/></a>
+</td>
+<td>
+<img alt="Spotify - tocadas recentemente" width="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=31cqaw7v6tlijidy2fnhfvwavhm4&width=400&count=5"/>
+</td>
+</tr>
+</table>
+<a href="https://open.spotify.com/user/31cqaw7v6tlijidy2fnhfvwavhm4"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div>
+
