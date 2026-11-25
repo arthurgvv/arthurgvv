@@ -143,7 +143,7 @@ def query_sequence(t: gifos.Terminal) -> None:
     t.toggle_show_cursor(True)
     t.gen_prompt(t.curr_row + 1)
     t.gen_typing_text(
-        f"{C_DIM}-- Dado bruto entra, insight sai.{R}",
+        f"{C_DIM}-- Building reliable, scalable data pipelines.{R}",
         t.curr_row,
         contin=True,
         speed=TYPING,
