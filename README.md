@@ -11,7 +11,7 @@
 
 Data Engineering • SQL • ETL • Data Modeling • Databricks • Medallion Architecture
 
-Sou o **Arthur**, tenho 25 anos, moro em Belo Horizonte e atuo no desenvolvimento da minha carreira em **Engenharia de Dados**, com foco na construção de pipelines confiáveis, na modelagem de dados e na entrega de informações consistentes para análise e tomada de decisão.
+Sou o **Arthur**, tenho 25 anos, moro em Belo Horizonte e sou profissional em formação na área de **Engenharia de Dados**, com foco na construção de pipelines confiáveis, na modelagem de dados e na entrega de informações consistentes para análise e tomada de decisão.
 
 * Estudante de **Engenharia de Software** na [PUC Minas](https://www.pucminas.br/) (5º período).
 * Trabalho principalmente com **SQL**, **Python** e **PySpark** no **Databricks**.
