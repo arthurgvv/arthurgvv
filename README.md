@@ -38,18 +38,76 @@ Sou o **Arthur**, tenho 25 anos, moro em Belo Horizonte e estou construindo minh
 
 [![Docker, Git, GitHub](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
 
-<details open>
-<summary><strong>Estatísticas</strong></summary>
+<h3><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/> GitHub Stats</h3>
+
+<!-- Primeira linha: stats + linguagens -->
+<div align="center">
+<table>
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arthurgvv&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=radical&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgvv&theme=radical&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs Pie" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgvv&layout=pie&theme=radical&locale=pt-br"/>
+</td>
+</tr>
+</table>
+</div>
 
 <br>
 
+<!-- Segunda linha: WakaTime -->
 <div align="center">
-  <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura" />
-  <br/><br/>
-  <img height="180" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura" />
-  <img height="180" src="https://helio-github-stats.vercel.app/api/wakatime?username=arthurgvv&layout=compact&theme=aura&langs_count=8" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" width="80%" />
+<table>
+<tr>
+<td>
+<a href="https://wakatime.com/@arthurgvv"><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=arthurgvv&theme=radical&layout=compact&locale=pt-br&langs_count=8"/></a>
+</td>
+</tr>
+</table>
 </div>
 
-</details>
+<br>
+
+<!-- Terceira linha: cartoes do perfil -->
+<div align="center">
+<table>
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurgvv&theme=radical"/>
+</td>
+<td>
+<img alt="Repos por linguagem" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurgvv&theme=radical"/>
+</td>
+<td>
+<img alt="GitHub Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=radical"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arthurgvv&theme=radical&utcOffset=-3"/>
+</td>
+<td>
+<img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurgvv&theme=radical"/>
+</td>
+<td>
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=arthurgvv&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- Visitas e seguidores -->
+<div align="center">
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=arthurgvv&color=ff6e96&label=VISITAS"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/arthurgvv?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/arthurgvv?style=social"/>
+</div>
+
+<!--SPOTIFY-->
+
