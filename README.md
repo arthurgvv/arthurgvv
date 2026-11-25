@@ -109,5 +109,21 @@ Sou o **Arthur**, tenho 25 anos, moro em Belo Horizonte e estou construindo minh
 <img alt="Stars" src="https://img.shields.io/github/stars/arthurgvv?style=social"/>
 </div>
 
-<!--SPOTIFY-->
+<br>
+
+<h3><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Meu Spotify</h3>
+
+<div align="center">
+<table>
+<tr>
+<td>
+<a href="https://open.spotify.com/user/31cqaw7v6tlijidy2fnhfvwavhm4"><img alt="Spotify - tocando agora" width="300px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cqaw7v6tlijidy2fnhfvwavhm4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/></a>
+</td>
+<td>
+<img alt="Spotify - tocadas recentemente" width="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=31cqaw7v6tlijidy2fnhfvwavhm4&width=400&count=5"/>
+</td>
+</tr>
+</table>
+<a href="https://open.spotify.com/user/31cqaw7v6tlijidy2fnhfvwavhm4"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+</div>
 
