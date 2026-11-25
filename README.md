@@ -1,127 +1,55 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arthurgvv/arthurgvv/main/docs/meubanner.png" width="100%" />
+<!--START_SECTION:terminal-->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./output.gif">
+    <img alt="Arthur Goncalves - terminal SQL" src="./output.gif">
+</picture>
 
-  <br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Data+%7C+SQL+%7C+Data+Modeling;ETL+%7C+Data+Transformation;Databricks+%7C+Medallion+Architecture+%7C+Data+Engineering" />
-
-  <br/><br/>
-
-  <table border="0">
-    <tr>
-      <td align="center" colspan="6"><strong>Contato</strong></td>
-    </tr> 
-    <tr>
-      <td><a href="https://github.com/arthurgvv"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="45px"/></a></td>
-      <td><a href="mailto:arthurgvkj@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://wa.me/5531983071212"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://www.instagram.com/arthurgvv"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://www.linkedin.com/in/arthur-goncalves-62b15232a/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px"/></a></td>
-      <td><a href="https://arthurgoncalves.vercel.app"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <i><b>Olá</b> 👋, sou o <code>Arthur Goncalves</code>, tenho 25 anos e moro em Belo Horizonte.<br/>
-  Estudante de <code>Engenharia de Software</code> na PUC Minas (5º período).<br/><br/>
-  
-  Profissional focado em <b>Dados</b>.
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurgvv&color=0078d7&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/repo-size/arthurgvv/arthurgvv?color=0078d7&label=REPO+SIZE&style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/arthurgvv/arthurgvv?color=0078d7&label=LICENSE&style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/m/arthurgvv/arthurgvv?color=0078d7&label=COMMIT+ACTIVITY&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/arthurgvv/arthurgvv?color=0078d7&label=LAST+COMMIT&style=for-the-badge" />
-</div>
-
----
-
-# 🚀 Foco Principal
+<br>
+<!--END_SECTION:terminal-->
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computador">
+Data Engineering • SQL • ETL • Data Modeling • Databricks • Medallion Architecture
 
+Sou o **Arthur**, tenho 25 anos, moro em Belo Horizonte e estou construindo minha carreira em **Engenharia de Dados**: gosto de pegar dado bruto, organizar em camadas e entregar algo confiável para quem vai consumir.
 
+* Estudante de **Engenharia de Software** na [PUC Minas](https://www.pucminas.br/) (5º período).
+* Trabalho principalmente com **SQL**, **Python** e **PySpark** no **Databricks**.
+* Organizo dados na **arquitetura Medallion** (Bronze → Silver → Gold), com processos de **ETL**, ingestão e transformação.
+* Interessado em **modelagem de dados**, **qualidade e consistência** dos dados e boas práticas de pipeline.
+* Também desenvolvo com **Java**, **JavaScript**, **React**, **Vue.js** e **Node.js**.
+* Portfólio: [arthurgoncalves.vercel.app](https://arthurgoncalves.vercel.app)
+* LinkedIn: [in/arthur-goncalves-62b15232a](https://www.linkedin.com/in/arthur-goncalves-62b15232a/)
+* Email: [arthurgvkj@gmail.com](mailto:arthurgvkj@gmail.com)
 
-## 📊 Dados
+### Tech Stack
 
-- SQL e bancos de dados relacionais
-- Modelagem e estruturação de dados
-- Processos de ETL
-- Ingestão e transformação de dados
-- Arquitetura Medallion e organização em camadas Bronze, Silver e Gold
-- Databricks para processamento e transformação de dados
-- Aprendizado contínuo em Engenharia de Dados
+**Dados**
 
----
-## 🛠️ Tecnologias
+[![PostgreSQL, Python](https://skillicons.dev/icons?i=postgres,py)](https://skillicons.dev)
+<img src="./assets/icons/databricks.svg" width="48" alt="Databricks" title="Databricks">
+<img src="./assets/icons/apachespark.svg" width="48" alt="PySpark" title="PySpark">
 
-### 📊 Dados
+**Desenvolvimento**
 
-* SQL
-* Python
-* PySpark
-* Databricks
+[![Java, JavaScript, HTML, CSS, React, Vue, Node.js, C](https://skillicons.dev/icons?i=java,js,html,css,react,vue,nodejs,c)](https://skillicons.dev)
 
-### 💻 Desenvolvimento
+**Ferramentas**
 
-* Java
-* JavaScript
-* HTML
-* CSS
-* React
-* Vue.js
-* Node.js
-* C
+[![Docker, Git, GitHub](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
 
-### ⚙️ Ferramentas
+<details open>
+<summary><strong>Estatísticas</strong></summary>
 
-* Docker
-* Git
-* GitHub
-
----
-
-# 🧩 O que eu faço com dados
-
-- Estruturo e organizo dados para facilitar seu processamento e consumo
-- Utilizo SQL para consulta, manipulação e transformação de dados
-- Desenvolvo processos de ingestão e transformação de dados
-- Aplico conceitos e processos de ETL
-- Organizo dados seguindo a arquitetura Medallion, com as camadas Bronze, Silver e Gold
-- Utilizo Databricks para ingestão, processamento e transformação de dados
-- Aplico conceitos de modelagem de dados para estruturar dados e seus relacionamentos
-- Busco garantir qualidade e consistência dos dados durante as transformações
----
-
-# 🎯 Objetivo
-
-Construir minha carreira na área de **Dados**, desenvolvendo experiência prática e conhecimento técnico para evoluir profissionalmente em **Engenharia de Dados**.
-
----
-
-# 📊 Estatísticas
+<br>
 
 <div align="center">
   <img src="https://github-streak-stats-ruby.vercel.app/?user=arthurgvv&theme=aura" />
   <br/><br/>
   <img height="180" src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurgvv&layout=compact&theme=aura" />
+  <img height="180" src="https://helio-github-stats.vercel.app/api/wakatime?username=arthurgvv&layout=compact&theme=aura&langs_count=8" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurgvv&theme=aura" width="80%" />
 </div>
 
----
-
-<div align="center">
-  <br/>
-  <img width="100%" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0078D7&section=footer"/>
-</div>
+</details>
